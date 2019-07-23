@@ -4,7 +4,7 @@ import java.awt.Point;
 import editor.*;
 
 
-public class Circulo implements Figura {
+public class Circulo implements Figura { 
 
 	public Circulo(Point centro, int radio) {
 		this.centro = centro;
